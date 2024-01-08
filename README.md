@@ -6,6 +6,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="typescript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer" title="react"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/></a>
+  <a href="https://v3.ru.vuejs.org/" target="_blank" rel="noreferrer" title="vue"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="nextjs"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/></a>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer" title="redux"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/></a>
   <a href="https://mobx.js.org/" target="_blank" rel="noreferrer" title="mobx"><img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" alt="mobx" width="30" height="30"/></a>
