@@ -1,4 +1,4 @@
-### Languages and tools I work with:
+### Languages, technologies and tools I work with:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="css"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
@@ -6,10 +6,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="typescript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer" title="react"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/></a>
-  <a href="https://v3.ru.vuejs.org/" target="_blank" rel="noreferrer" title="vue"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="vue"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="nextjs"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/></a>
   <a href="https://nuxt.com/" target="_blank" rel="noreferrer" title="nuxt"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="30" height="30"/></a>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer" title="redux"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/></a>
+  <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer" title="pinia"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" alt="pinia" width="30" height="30"/></a>
   <a href="https://mobx.js.org/" target="_blank" rel="noreferrer" title="mobx"><img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" alt="mobx" width="30" height="30"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="nodejs"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="express"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/></a>
