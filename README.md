@@ -14,7 +14,7 @@
   <a href="https://mobx.js.org/" target="_blank" rel="noreferrer" title="mobx"><img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" alt="mobx" width="30" height="30"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="nodejs"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="express"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/></a>
-  <a href="https://nestjs.com" target="_blank" rel="noreferrer" title="nestjs"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="30" height="30"/></a>
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer" title="nestjs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="30" height="30"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="mongodb"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="postgresql"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/></a>
